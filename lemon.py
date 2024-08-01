@@ -21,6 +21,7 @@ import random
 #   I'm turnin', turnin', turnin', turnin', turnin' around
 #   And all that I can see is just another lemon tree”
 
+# =============== Tree =============== #
 def draw_tree(size, level, current_branch):
   twidth = size / 8
   turtle.width(twidth)
@@ -73,18 +74,18 @@ def draw_tree(size, level, current_branch):
       turtle.backward(size)
 
 def draw_leaf(level):
-    turtle.width(4)
-    turtle.right(180)
-    for i in range(1, 5):
+    turtle.width(2)
+    turtle.right(75)
+    for i in range(1, 2):
       set_color(level)
-      turtle.left(45 * i)
-      turtle.circle(4, 60)
+      turtle.left(35 * i)
+      turtle.circle(6, 60)
       turtle.left(120)
-      turtle.circle(4, 60)
+      turtle.circle(6, 60)
       turtle.left(120)
-      turtle.right(45 * i)
+      turtle.right(35 * i)
     
-    turtle.left(180)
+    turtle.left(75)
     turtle.color('#330000')
 
 def draw_lemon(size, level):

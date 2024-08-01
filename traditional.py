@@ -9,6 +9,7 @@ import random
 # Also, it will take a several minute to complete.
 # Pure recursion with loops and if-elses.
 
+# =============== Tree =============== #
 def draw_tree(size, level, current_branch):
   twidth = size / 8
   turtle.width(twidth)
@@ -61,18 +62,18 @@ def draw_tree(size, level, current_branch):
 
 # ========== Leaves =========== #
 def draw_leaf(level): # look closely it's no only a circle :)
-    turtle.width(4)
-    turtle.right(180)
-    for i in range(1, 5):
+    turtle.width(2)
+    turtle.right(75)
+    for i in range(1, 2):
       set_color(level)
-      turtle.left(45 * i)
-      turtle.circle(4, 60)
+      turtle.left(35 * i)
+      turtle.circle(6, 60)
       turtle.left(120)
-      turtle.circle(4, 60)
+      turtle.circle(6, 60)
       turtle.left(120)
-      turtle.right(45 * i)
+      turtle.right(35 * i)
     
-    turtle.left(180)
+    turtle.left(75)
     turtle.color('#330000')
 
 # ========== Color =========== #
