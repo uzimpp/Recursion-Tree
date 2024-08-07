@@ -111,15 +111,17 @@ def draw_petals():
 # no wind speed
 # def draw_falling_petals(n):
 #   for i in range(n):
-#     set_color()
+#     turtle.penup()
 #     x = random.randint(-75, 150)
 #     y = random.randint(-150, 0)
 #     turtle.goto(x, y)
-#     rdh = random.randint(0,360)
-#     turtle.setheading(rdh) 
+    
 #     turtle.pendown()
+#     set_color()
+#     rd = random.randint(0,360)
+#     turtle.left(rd)
 #     draw_petals()
-#     turtle.penup()
+#     turtle.right(rd)
 
 # with wind speed
 def draw_falling_petals(n):
