@@ -3,6 +3,8 @@
 
 # Recursion Tree
 
+|-------|
+| Example |
 <div justify="center">
     <img src="traditional.png">
     <img src="lemon.png">
