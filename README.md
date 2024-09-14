@@ -5,7 +5,7 @@
 
 |   Example outputs   |
 |---------------------|
-|<img src="traditional.png">|
-|<img src="lemon.png">|
-|<img src="sakura.png">|
-|<img src="autumn.png">|
+|<img src="public/img/traditional.png">|
+|<img src="public/img/lemon.png">|
+|<img src="public/img/sakura.png">|
+|<img src="public/img/autumn.png">|
