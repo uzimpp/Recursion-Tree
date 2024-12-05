@@ -16,7 +16,9 @@ List of features
 https://trinket.io/python/3951eccaa3
 
 
+
 # 01. Lemon tree
+<img src="public/img/lemon.png">
 List of features
 - random an angle for every branch
 - random color
@@ -24,7 +26,6 @@ List of features
 - additional branches from the main branch
 - changing color for the deeper branch
 - set heading
-<img src="public/img/lemon.png">
 
 Anyway, here is the hook lyrics of the song "Lemon Tree" by Fools Garden.
 “I wonder how, I wonder why
@@ -37,7 +38,9 @@ And all that I can see is just another lemon tree”
 I hope TAs and Instructors will understand my code. From now on, These are by far the most complex and organized.
 
 
-# 02. Sakura tree
+
+# 02. Sakura tree (Prize winner !!!)
+<img src="public/img/sakura.png">
 What a view of the sakura tree. It would be nice if I ever had a chance to experience such view.
 List of features
 - random an angle for every branch
@@ -48,10 +51,11 @@ List of features
 - A recursion catcher for preventing calling the recursive function twice to draw the next branch, and it will call draw_flowers only once.
 - randomly not draw a sakura at the end of the branch (1 in 6 chance or about 16.67%)
 - falling petals randomizer (This one has 2 version. One with wind and no wind. They also work differently)
-<img src="public/img/sakura.png">
+
 
 
 # 03. Autumn tree (Sakura modded)
+<img src="public/img/autumn.png">
 This version is sakura modded version. Overall, both Sakura and Autumn tree have similar code structure.
 List of features
 - random an angle for every branch
@@ -62,4 +66,3 @@ List of features
 - A recursion catcher for preventing calling the recursive function twice to draw the next branch, and it will call draw_flowers only once.
 - randomly not draw a leaf at the end of the branch (1 in 6 chance or about 16.67%)
 - falling leaves randomizer (This one has 2 version. One with wind and no wind. They also work differently)
-<img src="public/img/autumn.png">
