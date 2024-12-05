@@ -13,7 +13,6 @@ List of features
 - additional branches from the main branch
 - changing color for the deeper branch
 - root
-https://trinket.io/python/3951eccaa3
 
 
 
@@ -36,7 +35,7 @@ I'm turnin', turnin', turnin', turnin', turnin' around
 And all that I can see is just another lemon tree”
 
 I hope TAs and Instructors will understand my code. From now on, These are by far the most complex and organized.
-
+https://trinket.io/python/13ab6ae564
 
 
 # 02. Sakura tree (Prize winner !!!)
@@ -51,7 +50,7 @@ List of features
 - A recursion catcher for preventing calling the recursive function twice to draw the next branch, and it will call draw_flowers only once.
 - randomly not draw a sakura at the end of the branch (1 in 6 chance or about 16.67%)
 - falling petals randomizer (This one has 2 version. One with wind and no wind. They also work differently)
-
+https://trinket.io/python/eeab5c1cd5
 
 
 # 03. Autumn tree (Sakura modded)
@@ -66,3 +65,4 @@ List of features
 - A recursion catcher for preventing calling the recursive function twice to draw the next branch, and it will call draw_flowers only once.
 - randomly not draw a leaf at the end of the branch (1 in 6 chance or about 16.67%)
 - falling leaves randomizer (This one has 2 version. One with wind and no wind. They also work differently)
+https://trinket.io/python/0029dfdfad
