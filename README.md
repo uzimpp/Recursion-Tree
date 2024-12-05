@@ -1,6 +1,6 @@
 # Recursion Tree
 A tree created with turtle python
-coded by: @uzimpp Worakrit Kullanatpokin
+coded by: [Worakrit Kullanatpokin](https://github.com/uzimpp)
 
 Instruction: The result will differ due to randomization in the code. Also, it may take a minute to complete. Pure recursion with loops and if-elses.
 
