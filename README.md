@@ -24,7 +24,7 @@ List of features
 - additional branches from the main branch
 - changing color for the deeper branch
 - set heading
-<img src="public/img/traditional.png">
+<img src="public/img/lemon.png">
 
 Anyway, here is the hook lyrics of the song "Lemon Tree" by Fools Garden.
 “I wonder how, I wonder why
