@@ -16,7 +16,7 @@ List of features
 https://trinket.io/python/3951eccaa3
 
 
-# 01. Lemon tree: https://trinket.io/python/13ab6ae564
+# 01. Lemon tree
 List of features
 - random an angle for every branch
 - random color
@@ -37,7 +37,7 @@ And all that I can see is just another lemon tree”
 I hope TAs and Instructors will understand my code. From now on, These are by far the most complex and organized.
 
 
-# 02. Sakura tree: https://trinket.io/python/eeab5c1cd5
+# 02. Sakura tree
 What a view of the sakura tree. It would be nice if I ever had a chance to experience such view.
 List of features
 - random an angle for every branch
@@ -51,7 +51,7 @@ List of features
 <img src="public/img/sakura.png">
 
 
-# 03. Autumn tree (Sakura modded): https://trinket.io/python/0029dfdfad
+# 03. Autumn tree (Sakura modded)
 This version is sakura modded version. Overall, both Sakura and Autumn tree have similar code structure.
 List of features
 - random an angle for every branch
